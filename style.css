@@ -30,9 +30,11 @@ nav {
 	 
 article {
 	display:inline-block;
-margin-left: 20%;
+margin-left: 10%;
+
 
 float:left;
+width:80%;
 
 }
 
@@ -40,18 +42,39 @@ float:left;
 	 
 	 section#text1 {
 		 width:25%;
-		 margin-top:80px;}
+		 margin-top:90px;
+		 padding-left:10%;
+		 }
 	
 		 
 		
-	section#pic1 {	 margin-right:30%;
-	margin-left:30%; 
-	margin-top:-25%;
+	section#pic1 {	margin-top:-35%; margin-right:30%;
+	margin-left:40%; 
+
 		 
 		}
 		
-		section#text2 {
+		section#text2 { background-color:#3E7DD1;
 		 margin-top:200px;
+		 padding-left:20px;
+		 margin-left:10%;
+		 margin-right:60%;
+		 padding-top: 30px;
+		margin-bottom:5px;
+		padding-bottom:5px;
+		 
 		 
 			
 			}
+			
+	form {
+	background-color:#3E7DD1;
+		margin-left:60%;
+		margin-top:-330px;
+		margin-right:140px;
+		padding-top:40px;
+		padding-left:40px;
+		padding-bottom:30px;
+		
+	
+		}
