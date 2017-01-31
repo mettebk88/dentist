@@ -5,3 +5,29 @@
 	
 	
 }
+article {
+	display:inline-block;
+margin-left: 20%;
+
+float:left;
+}
+
+	 
+	 
+	 section#text1 {
+		 width:25%;
+		 margin-top:80px;}
+	
+		 
+		
+	section#pic1 {	 margin-right:20%;
+	margin-left:40%; 
+	margin-top:-10%;
+		 
+		}
+		
+		section#text2 {width:25%;
+		 margin-top:200px;
+		 
+			
+			}
