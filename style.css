@@ -1,15 +1,39 @@
 @charset "utf-8";
 /* CSS Document */
 
-#1 {
+@charset "utf-8";
+/* CSS Document */
+
+ tb {font-size:14px;
+	}
+
+nav {
 	
+	text-align:center;
+
+	font-size:16px;
+	position:fixed;
+	height:50px;
+	width:80%;
+	background-color:#35AFE3;
 	
-}
+     }
+	 
+	 ul { display:inline;
+	 
+	 
+	 }
+	 
+	li {  float: left;
+	position:inherit;
+	 text-align:center; }
+	 
 article {
 	display:inline-block;
 margin-left: 20%;
 
 float:left;
+
 }
 
 	 
@@ -20,13 +44,13 @@ float:left;
 	
 		 
 		
-	section#pic1 {	 margin-right:20%;
-	margin-left:40%; 
-	margin-top:-10%;
+	section#pic1 {	 margin-right:30%;
+	margin-left:30%; 
+	margin-top:-25%;
 		 
 		}
 		
-		section#text2 {width:25%;
+		section#text2 {
 		 margin-top:200px;
 		 
 			
